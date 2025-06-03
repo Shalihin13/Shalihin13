@@ -1,7 +1,11 @@
 ## Hi there 👋
+<h1 align="center"> I'm Shalihin</h1>
+<p align="center">
+  🚀 Data Enthusiast | Credit Analysis & Specialist Sales | Warehouse and Logistic |<br>
+  💡 Passionate about turning data into actionable insights
+</p>
 
-<!--
-**Shalihin13/Shalihin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
 Here are some ideas to get you started:
 
